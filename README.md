@@ -1,12 +1,12 @@
 # Hey 👋 I'm Mehdi
 
-### Student @ 42 Belgium
+### Student at 42 Belgium
 
 [![profile views](https://komarev.com/ghpvc/?username=iammehdib&label=Profile%20views&color=00FFFF&style=flat-square)](https://komarev.com/ghpvc/?username=iammehdib)
 
 ## About Me
 
-21 y/o, currently studying at 42 Belgium. I started coding in 2018 with Skript (SkriptLang) for Minecraft, then moved on to Python in 2021, and have been deepening my skills ever since. Today I mostly work in C through the 42 cursus, and focus on Object-Oriented Programming in Java. I enjoy understanding how things work under the hood — memory management, data structures, low-level systems — and I've been running a Minecraft community project at [@skylymc](https://github.com/skylymc) for years.
+21 y/o, currently studying at 42 Belgium (my intranet is mbuchet). I started coding in 2018 with Skript (SkriptLang) for Minecraft, then moved on to Python in 2021, and have been deepening my skills ever since. Today I mostly work in C through the 42 cursus, and focus on Object-Oriented Programming in Java. I enjoy understanding how things work under the hood — memory management, data structures, low-level systems — and I've been running a Minecraft community project at [@skylymc](https://github.com/skylymc) for years.
 
 Still building, still learning.
 
@@ -33,6 +33,10 @@ OOP · Java   ·   Systems Programming / C   ·   Python Scripting   ·   Minecr
 #### Databases
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" width="48" title="MariaDB" alt="MariaDB" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="48" title="MongoDB" alt="MongoDB" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="48" title="Redis" alt="Redis" />
+
+#### Database Clients
+
+<img src="https://cdn.simpleicons.org/heidisql" width="48" title="HeidiSQL" alt="HeidiSQL" /> <img src="https://cdn.simpleicons.org/mongodb" width="48" title="MongoDB Compass" alt="MongoDB Compass" /> <img src="https://cdn.simpleicons.org/redis" width="48" title="RedisInsight" alt="RedisInsight" />
 
 #### Tools
 
