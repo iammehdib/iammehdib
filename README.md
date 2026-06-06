@@ -36,7 +36,7 @@ OOP · Java   ·   Systems Programming / C   ·   Python Scripting   ·   Minecr
 
 #### Tools
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" title="Git" alt="Git" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="48" title="GitHub" alt="GitHub" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="48" title="Linux" alt="Linux" /> <img src="https://avatars.githubusercontent.com/winscp" width="48" title="WinSCP" alt="WinSCP" style="border-radius:8px" /> <img src="https://cdn.simpleicons.org/termius" width="48" title="Termius" alt="Termius" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" title="Git" alt="Git" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="48" title="GitHub" alt="GitHub" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="48" title="Linux" alt="Linux" /> <img src="https://avatars.githubusercontent.com/winscp" width="48" title="WinSCP" alt="WinSCP" style="border-radius:8px" /> <img src="https://cdn.simpleicons.org/termius" width="48" title="Termius" alt="Termius" /> <img src="https://cdn.simpleicons.org/gitea" width="48" title="Gitea" alt="Gitea" />
 
 ## Connect
 
