@@ -1,12 +1,12 @@
 # Hey 👋 I'm Mehdi
 
-### Student at 42 Belgium
+### Student @ 42 Belgium
 
 [![profile views](https://komarev.com/ghpvc/?username=iammehdib&label=Profile%20views&color=00FFFF&style=flat-square)](https://komarev.com/ghpvc/?username=iammehdib)
 
 ## About Me
 
-21 y/o, currently studying at 42 Belgium (my intranet is mbuchet). I started coding in 2018 with Skript (SkriptLang) for Minecraft, then moved on to Python in 2021, and have been deepening my skills ever since. Today I mostly work in C through the 42 cursus, and focus on Object-Oriented Programming in Java. I enjoy understanding how things work under the hood — memory management, data structures, low-level systems — and I've been running a Minecraft community project at [@skylymc](https://github.com/skylymc) for years.
+21 y/o, currently studying at 42 Belgium. I started coding in 2018 with Skript (SkriptLang) for Minecraft, then moved on to Python in 2021, and have been deepening my skills ever since. Today I mostly work in C through the 42 cursus, and focus on Object-Oriented Programming in Java. I enjoy understanding how things work under the hood — memory management, data structures, low-level systems — and I've been running a Minecraft community project at [@skylymc](https://github.com/skylymc) for years.
 
 Still building, still learning.
 
@@ -36,7 +36,7 @@ OOP · Java   ·   Systems Programming / C   ·   Python Scripting   ·   Minecr
 
 #### Database Clients
 
-<img src="https://cdn.simpleicons.org/heidisql" width="48" title="HeidiSQL" alt="HeidiSQL" /> <img src="https://cdn.simpleicons.org/mongodb" width="48" title="MongoDB Compass" alt="MongoDB Compass" /> <img src="https://cdn.simpleicons.org/redis" width="48" title="RedisInsight" alt="RedisInsight" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="48" title="HeidiSQL" alt="HeidiSQL" /> <img src="https://cdn.simpleicons.org/mongodb" width="48" title="MongoDB Compass" alt="MongoDB Compass" /> <img src="https://cdn.simpleicons.org/redis" width="48" title="RedisInsight" alt="RedisInsight" /> <img src="https://avatars.githubusercontent.com/u/53234021?v=4" width="48" title="Beekeeper Studio" alt="Beekeeper Studio" style="border-radius:8px" />
 
 #### Tools
 
