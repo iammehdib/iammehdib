@@ -4,10 +4,11 @@
 
 `Student at 42 Belgium`
 
+[![42 Intra](https://img.shields.io/badge/42%20Intra-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mbuchet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://be.linkedin.com/in/mbuchet)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gonpvp)
+
 [![profile views](https://komarev.com/ghpvc/?username=iammehdib&label=Profile%20views&color=00FFFF&style=flat-square)](https://komarev.com/ghpvc/?username=iammehdib)
-
-</div>
-
 
 </div>
 
@@ -101,19 +102,6 @@
 <summary><b>Tools</b></summary>
 <br>
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" title="Git" alt="Git" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="48" title="GitHub" alt="GitHub" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="48" title="Linux" alt="Linux" /> <img src="https://avatars.githubusercontent.com/winscp" width="48" title="WinSCP" alt="WinSCP" style="border-radius:8px" /> <img src="https://cdn.simpleicons.org/termius" width="48" title="Termius" alt="Termius" /> <img src="https://cdn.simpleicons.org/gitea" width="48" title="Gitea" alt="Gitea" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" title="Git" alt="Git" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="48" title="GitHub" alt="GitHub" /> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="48" title="Linux" alt="Linux" /> <img src="https://avatars.githubusercontent.com/winscp" width="48" title="WinSCP" alt="WinSCP" style="border-radius:8px" /> <img src="https://cdn.simpleicons.org/termius" width="48" title="Termius" alt="Termius" /> <img src="https://cdn.simpleicons.org/gitea" width="48" title="Gitea" alt="Gitea" /> <img src="https://cdn.simpleicons.org/anthropic" width="48" title="Claude Code" alt="Claude Code" style="border-radius:8px" />
 
 </details>
-
-<br>
-
-## ⌁ Let's connect
-
-<div align="center">
-
-Always happy to talk code.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://be.linkedin.com/in/mbuchet)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gonpvp)
-
-</div>
