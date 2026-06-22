@@ -30,12 +30,12 @@
 
 | Project | Period | Notes |
 |:--------|:------:|:------|
-| **Hubzon** | 2018 – 2019 | First Minecraft server — where it all started |
+| **[Hubzon](https://www.youtube.com/watch?v=75TpQ65xdl4)** | 2018 – 2019 | First Minecraft server — where it all started |
 | **Synestia** | ~ 2019 | A few months, peaked at 70 simultaneous players |
 | **[Skyly](https://skyly.fr)** | 2020 – now | Opened, went on a 2-year hiatus, still alive today |
 | **Python projects** | 2021 – now | Various personal scripts, tools & experiments |
 | **[Spalion](https://www.youtube.com/watch?v=ZmmAsYvU4Iw)** | 2024 | Ranked Minecraft server |
-| **42 school projects** | 2026 – now | Systems programming in C, currently ongoing |
+| **[42 school projects](https://profile.intra.42.fr/users/mbuchet)** | 2026 – now | Systems programming in C, currently ongoing |
 
 <br>
 
