@@ -35,7 +35,7 @@
 | **[Skyly](https://skyly.fr)** | 2020 – now | Opened, went on a 2-year hiatus, still alive today |
 | **Python projects** | 2021 – now | Various personal scripts, tools & experiments |
 | **[Spalion](https://www.youtube.com/watch?v=ZmmAsYvU4Iw)** | 2024 | Ranked Minecraft server |
-| **[42 school projects](https://profile.intra.42.fr/users/mbuchet)** | 2026 – now | Systems programming in C, currently ongoing |
+| **[42 school projects](https://profile.intra.42.fr/users/mbuchet)** | 2026 – now | Systems programming in Python and C, currently ongoing |
 
 <br>
 
